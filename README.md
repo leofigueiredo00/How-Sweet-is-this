@@ -1,2 +1,2 @@
 # How-Sweet-is-this
-Simple webpage for application of css
+Simple webpage for applying of CSS
